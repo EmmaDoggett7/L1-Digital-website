@@ -1,7 +1,17 @@
-body{}
-h1{}
-h2{}
-h5{}
-h6{}
-P{}
-a{}
+body{background-color:gainsboro}
+h1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;}
+h2{color:rgb(13, 84, 43);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;}
+h5{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;}
+h6{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    text-align: center;}
+p{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;}
+a{color:rgb(13, 84, 43);
+    font-size: 20px;}
