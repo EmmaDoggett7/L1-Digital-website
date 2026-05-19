@@ -21,3 +21,14 @@ a{color:rgb(13, 84, 43);
 .heading{background-color: rgb(13, 84, 43);
         padding-top: 20px;
         padding-bottom: 20px;}
+span{text-align: center;}
+.img-txt1{display: flex;
+    gap: 20px;
+    align-items: flex-start;}
+.txtside1{flex: 1;}
+.imgside1{flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;}
+.imgside1 img{width: 75%;
+        height: auto;}
