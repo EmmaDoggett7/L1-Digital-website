@@ -43,7 +43,7 @@ a{color:rgb(13, 84, 43);
         display: flex;
         flex-direction: column;
         gap: 10px;}
-.imgside1 img{width: 60%;
+.imgside1 img{width: 95%;
         height: auto;}
 .img-txt2{display: flex;
         gap: 20px;
@@ -53,5 +53,13 @@ a{color:rgb(13, 84, 43);
         display: flex;
         flex-direction: column;
         gap: 10px;}
-.imgside2 img{width: 60%;
+.imgside2 img{width: 95%;
             height: auto;}
+.Intro{display: flex;
+        gap: 10px;
+        align-items: flex-start;}
+.logoI{flex: 1;}
+.nameI{flex: 1;
+        flex-direction: column;}
+.linkI{flex: 1;
+        flex-direction: column;}
