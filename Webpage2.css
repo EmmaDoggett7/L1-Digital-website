@@ -11,7 +11,7 @@ h2{color:rgb(13, 84, 43);
     margin-right: 20px;
     margin-bottom: 10px;}
 h5{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20px;}
+    font-size: 40px;}
 h6{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 40px;
     text-align: center;}
@@ -56,8 +56,8 @@ a{color:rgb(13, 84, 43);
 .imgside2 img{width: 95%;
             height: auto;}
 .Intro{display: flex;
-        gap: 10px;
-        align-items: flex-start;}
+        align-items: flex-start;
+        justify-content: flex-start;}
 .logoI{flex: 1;}
 .nameI{flex: 1;
         flex-direction: column;}
