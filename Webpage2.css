@@ -60,6 +60,15 @@ a{color:rgb(13, 84, 43);
         justify-content: flex-start;}
 .logoI{flex: 1;}
 .nameI{flex: 1;
-        flex-direction: column;}
+        flex-direction: column;
+        margin: 0;}
 .linkI{flex: 1;
+        flex-direction: column;}
+.Outro{display: flex;
+        gap: 10px;
+        align-items: flex-start;}
+.logoO{flex: 1;}
+.nameO{flex: 1;
+        flex-direction: column;}
+.linkO{flex: 1;
         flex-direction: column;}

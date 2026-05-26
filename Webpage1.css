@@ -64,4 +64,12 @@ a{color:rgb(13, 84, 43);
         flex-direction: column;}
 .linkI{flex: 1;
         flex-direction: column;}
+.Outro{display: flex;
+        gap: 10px;
+        align-items: flex-start;}
+.logoO{flex: 1;}
+.nameO{flex: 1;
+        flex-direction: column;}
+.linkO{flex: 1;
+        flex-direction: column;}
 
