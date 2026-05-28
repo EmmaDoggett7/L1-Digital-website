@@ -2,7 +2,8 @@ body{background-color:gainsboro}
 h1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     font-size: 100px;
-    text-align: center;}
+    text-align: center;
+    margin: 7px;}
 h2{color:rgb(13, 84, 43);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 50px;
@@ -15,16 +16,18 @@ h5{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-top: 0;}
 h6{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 40px;
-    text-align: center;}
+    text-align: center;
+    margin: 7px;}
 p{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20px;
+    font-size: 25px;
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 10px;}
 a{color:rgb(13, 84, 43);
-    font-size: 20px;}
-.logo-img{height: 80px;}
+    font-size: 25px;}
+.logo-img{height: 80px;
+        margin-top: 5px;}
 .img1{margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
@@ -64,8 +67,7 @@ a{color:rgb(13, 84, 43);
 .logoI{flex: 0 1 auto;}
 .nameI{flex: 0 1 auto;
         flex-direction: row;}
-.linkI{flex: 1;
-        flex-direction: row;}
+.linkI{margin-left: auto;}
 .Outro{display: flex;
         gap: 10px;
         align-items: flex-start;
@@ -73,6 +75,5 @@ a{color:rgb(13, 84, 43);
 .logoO{flex: 0 1 auto;}
 .nameO{flex: 0 1 auto;
         flex-direction: row;}
-.linkO{flex: 1;
-        flex-direction: row;}
+.linkO{margin-left: auto;}
 
