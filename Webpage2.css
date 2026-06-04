@@ -63,10 +63,7 @@ span{margin-bottom: 50px;}
             height: auto;}
 .Intro{display: flex;
         align-items: flex-start;
-        justify-content: flex-start;
-        background-color: white;
-        padding-top: 10px;
-        padding-bottom: 10px;}
+        justify-content: flex-start;}
 .logoI{flex: 0 1 auto;}
 .nameI{flex: 0 1 auto;
         flex-direction: row;
