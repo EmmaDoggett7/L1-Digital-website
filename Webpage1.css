@@ -63,10 +63,7 @@ a{color:rgb(111, 85, 65);
 .Intro{display: flex;
         gap: 10px;
         align-items: flex-start;
-        justify-content: flex-start;
-        background-color: rgb(13, 84, 43);
-        padding-top: 10px;
-        padding-bottom: 10px;}
+        justify-content: flex-start;}
 .logoI{flex: 0 1 auto;}
 .nameI{flex: 0 1 auto;
         flex-direction: row;}
@@ -74,10 +71,7 @@ a{color:rgb(111, 85, 65);
 .Outro{display: flex;
         gap: 10px;
         align-items: flex-start;
-        justify-content: flex-start;
-        background-color: rgb(13, 84, 43);
-        padding-top: 10px;
-        padding-bottom: 10px;}
+        justify-content: flex-start;}
 .logoO{flex: 0 1 auto;}
 .nameO{flex: 0 1 auto;
         flex-direction: row;}
