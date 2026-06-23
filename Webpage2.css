@@ -62,6 +62,7 @@ span{margin-bottom: 50px;}
 .imgside2 img{width: 95%;
             height: auto;}
 .Intro{display: flex;
+        gap: 10px;
         align-items: flex-start;
         justify-content: flex-start;}
 .logoI{flex: 0 1 auto;}
