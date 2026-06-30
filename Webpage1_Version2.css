@@ -1,20 +1,20 @@
 body{background-color:gainsboro}
-h1{font-family: 'Courier New', Courier, monospace;
+h1{font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 100px;
     text-align: center;
     margin: 7px;}
-h2{color:rgb(22, 122, 64);
-    font-family: 'Courier New', Courier, monospace;
+h2{color:rgb(19, 97, 63);
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 10px;}
-h5{font-family: 'Courier New', Courier, monospace;
+h5{font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
     margin-top: 0;}
-h6{font-family: 'Courier New', Courier, monospace;
+h6{font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
     text-align: center;
     margin: 7px;}
@@ -37,7 +37,7 @@ a{color:rgb(111, 85, 65);
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 50px;}
-.heading{background-color: rgb(22, 122, 64);
+.heading{background-color: rgb(19, 97, 63);
     padding-top: 15px;
     padding-bottom: 15px;}
 .img-txt1{display: flex;
