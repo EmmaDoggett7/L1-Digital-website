@@ -74,7 +74,5 @@ a{color:rgb(111, 85, 65);
         align-items: flex-start;
         justify-content: flex-start;}
 .logoO{flex: 0 1 auto;}
-.nameO{flex: 0 1 auto;
-        flex-direction: row;}
 .linkO{margin-left: auto;}
 
